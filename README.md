@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Here Sara Monzon! Junior front end developer. 
 
 <!--
 **saramonzon22/saramonzon22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
